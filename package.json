@@ -1,0 +1,26 @@
+{
+  "name": "gk-semantic-colors",
+  "displayName": "GK - Semantic colors",
+  "description": "Semantic color themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GK semantic - Github Rust Light",
+        "uiTheme": "vs",
+        "path": "./themes/github-dark-rust.json"
+      },
+      {
+        "label": "GK semantic - Github Rust Dark",
+        "uiTheme": "vs",
+        "path": "./themes/github-light-rust.json"
+      }
+    ]
+  }
+}
