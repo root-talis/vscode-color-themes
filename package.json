@@ -14,12 +14,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "GK semantic - Github Rust Light",
+        "label": "GK semantic - Github Rust Dark",
         "uiTheme": "vs",
         "path": "./themes/github-dark-rust.json"
       },
       {
-        "label": "GK semantic - Github Rust Dark",
+        "label": "GK semantic - Github Rust Light",
         "uiTheme": "vs",
         "path": "./themes/github-light-rust.json"
       }
