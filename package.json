@@ -4,7 +4,7 @@
   "description": "Semantic color themes",
   "publisher": "GeorgeK",
   "repository": "https://github.com/root-talis/vscode-color-themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.118.0"
   },
