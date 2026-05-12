@@ -2,6 +2,8 @@
   "name": "gk-semantic-colors",
   "displayName": "GK - Semantic colors",
   "description": "Semantic color themes",
+  "publisher": "GeorgeK",
+  "repository": "https://github.com/root-talis/vscode-color-themes",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.118.0"
