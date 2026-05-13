@@ -4,7 +4,7 @@
   "description": "Semantic color themes",
   "publisher": "GeorgeK",
   "repository": "https://github.com/root-talis/vscode-color-themes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.118.0"
   },
@@ -15,7 +15,7 @@
     "themes": [
       {
         "label": "GK semantic - Github Rust Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/github-dark-rust.json"
       },
       {

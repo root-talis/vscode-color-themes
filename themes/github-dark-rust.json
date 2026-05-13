@@ -1313,5 +1313,68 @@
 				"foreground": "#B267E6"
 			}
 		}
-	]
+	],
+	"semanticTokenColors": {
+		"string": "#f5dc6d",
+		"comment.documentation": "#5fa6e0",
+
+		"typeParameter": {
+			"bold": true
+		},
+
+		"namespace": {
+			"italic": true,
+		},
+		"struct": {
+			"bold": true,
+		},
+		"enumMember": {
+			"bold": true,
+		},
+		"type": {
+			"bold": true,
+		},
+		"enum": {
+			"bold": true,
+			"italic": true,
+		},
+		"interface": {
+			"italic": true,
+			"underline": true,
+		},
+
+		"macro": {
+			"underline": true,
+			"foreground": "#ff85e0",
+		},
+		"decorator": "#ff85e0",
+		"derive": {
+			"foreground": "#ff85e0",
+			"italic": true,
+		},
+
+		"variable.consuming": {
+			"foreground": "#ff3f3f",
+			"bold": true
+		},
+		"*.consuming": {
+			"bold": true
+		},
+		"*.reference": {
+			"italic": true
+		},
+		"variable.mutable": {
+			"underline": true
+		},
+		"const": {
+			"foreground": "#000",
+			"itlaic": true
+		},
+		"method": "#97e762",
+
+		"keyword.async": {
+			"italic": true,
+		}
+	},
+	"semanticHighlighting": true
 }
