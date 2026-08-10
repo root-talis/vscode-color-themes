@@ -1,0 +1,58 @@
+{
+  "themes": [
+    {
+      "name": "github-dark-rust",
+      "spec": "spec/github-dark.json",
+      "palette": "palettes/github-dark.json"
+    },
+    {
+      "name": "github-light-rust",
+      "spec": "spec/github-light.json",
+      "palette": "palettes/github-light.json"
+    },
+    {
+      "name": "tomorrow-night-rust",
+      "spec": "spec/github-dark.json",
+      "palette": "palettes/tomorrow-night.json"
+    },
+    {
+      "name": "tomorrow-rust",
+      "spec": "spec/github-light.json",
+      "palette": "palettes/tomorrow.json"
+    },
+    {
+      "name": "gruvbox-dark-rust",
+      "spec": "spec/github-dark.json",
+      "palette": "palettes/gruvbox-dark.json"
+    },
+    {
+      "name": "gruvbox-light-rust",
+      "spec": "spec/github-light.json",
+      "palette": "palettes/gruvbox-light.json"
+    },
+    {
+      "name": "correia-gruvbox-dark-rust",
+      "spec": "spec/correia-gruvbox.json",
+      "palette": "palettes/correia-gruvbox.json"
+    }
+  ],
+  "formatting": {
+    "rust": {
+      "typeParameter": { "bold": true },
+      "namespace": { "italic": true },
+      "struct": { "bold": true },
+      "enumMember": { "bold": true },
+      "type": { "bold": true },
+      "enum": { "bold": true, "italic": true },
+      "interface": { "italic": true, "underline": true },
+      "*.consuming": { "bold": true },
+      "*.reference": { "italic": true },
+      "variable.mutable": { "underline": true },
+      "keyword.async": { "italic": true },
+      "macro": { "underline": true },
+      "derive": { "italic": true },
+      "variable.consuming": { "bold": true },
+      "const": { "italic": true }
+    }
+  }
+}

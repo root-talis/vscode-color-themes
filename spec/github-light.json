@@ -1,0 +1,1346 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"type": "light",
+	"derived": {
+		"orange.d0": {
+			"ref": "orange",
+			"d": [
+				0.08736699451529095,
+				0.0019965298744213933,
+				-0.050269014190459205
+			]
+		},
+		"orange.d1": {
+			"ref": "orange",
+			"d": [
+				0.08736699451529095,
+				0.0019965298744213933,
+				-0.050269014190459205
+			]
+		},
+		"orange.d2": {
+			"ref": "orange",
+			"d": [
+				0.08736699451529095,
+				0.0019965298744213933,
+				-0.050269014190459205
+			]
+		},
+		"orange.d3": {
+			"ref": "orange",
+			"d": [
+				0.08736699451529095,
+				0.0019965298744213933,
+				-0.050269014190459205
+			]
+		},
+		"orange.d4": {
+			"ref": "orange",
+			"d": [
+				0.08736699451529095,
+				0.0019965298744213933,
+				-0.050269014190459205
+			]
+		},
+		"fg.d0": {
+			"ref": "fg",
+			"d": [
+				-0.041173453697848084,
+				0.0007228760058460987,
+				0.0018159431393786063
+			]
+		},
+		"fg.d1": {
+			"ref": "fg",
+			"d": [
+				-0.041173453697848084,
+				0.0007228760058460987,
+				0.0018159431393786063
+			]
+		},
+		"fg.d2": {
+			"ref": "fg",
+			"d": [
+				0.032714331370002514,
+				-0.020376409429323783,
+				-0.08729316957982089
+			]
+		},
+		"fg.d3": {
+			"ref": "fg",
+			"d": [
+				0.032714331370002514,
+				-0.020376409429323783,
+				-0.08729316957982089
+			]
+		},
+		"fg.d4": {
+			"ref": "fg",
+			"d": [
+				0.032714331370002514,
+				-0.020376409429323783,
+				-0.08729316957982089
+			]
+		},
+		"fg.d5": {
+			"ref": "fg",
+			"d": [
+				0.032714331370002514,
+				-0.020376409429323783,
+				-0.08729316957982089
+			]
+		},
+		"fg.d6": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d7": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d8": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d9": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d10": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d11": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d12": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d13": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d14": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d15": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d16": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d17": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d18": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d19": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d20": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"fg.d21": {
+			"ref": "fg",
+			"d": [
+				0.05103806164065677,
+				-0.0014652718973190426,
+				-0.0037133271536606005
+			]
+		},
+		"blue.d0": {
+			"ref": "blue",
+			"d": [
+				-0.10587942391890459,
+				0.008036310716373063,
+				0.04774268757404271
+			]
+		},
+		"blue.d1": {
+			"ref": "blue",
+			"d": [
+				0.03501936429839109,
+				-0.002657194363122173,
+				-0.009141493155540414
+			]
+		},
+		"blue.d2": {
+			"ref": "blue",
+			"d": [
+				0.03501936429839109,
+				-0.002657194363122173,
+				-0.009141493155540414
+			]
+		},
+		"blue.d3": {
+			"ref": "blue",
+			"d": [
+				0.03501936429839109,
+				-0.002657194363122173,
+				-0.009141493155540414
+			]
+		},
+		"blue.d4": {
+			"ref": "blue",
+			"d": [
+				0.03501936429839109,
+				-0.002657194363122173,
+				-0.009141493155540414
+			]
+		},
+		"blue.d5": {
+			"ref": "blue",
+			"d": [
+				0.03501936429839109,
+				-0.002657194363122173,
+				-0.009141493155540414
+			]
+		},
+		"blue.d6": {
+			"ref": "blue",
+			"d": [
+				0.04816138695192712,
+				0.01090904845470797,
+				0.014448643282945262
+			]
+		},
+		"blue.d7": {
+			"ref": "blue",
+			"d": [
+				0.1405098321861254,
+				-0.009886406561564753,
+				-0.016477945068389288
+			]
+		},
+		"blue.d8": {
+			"ref": "blue",
+			"d": [
+				0.1405098321861254,
+				-0.009886406561564753,
+				-0.016477945068389288
+			]
+		},
+		"blue.d9": {
+			"ref": "blue",
+			"d": [
+				0.1405098321861254,
+				-0.009886406561564753,
+				-0.016477945068389288
+			]
+		},
+		"blue.d10": {
+			"ref": "blue",
+			"d": [
+				0.1405098321861254,
+				-0.009886406561564753,
+				-0.016477945068389288
+			]
+		},
+		"blue.d11": {
+			"ref": "blue",
+			"d": [
+				0.1405098321861254,
+				-0.009886406561564753,
+				-0.016477945068389288
+			]
+		},
+		"border.d0": {
+			"ref": "border",
+			"d": [
+				-0.005982282133357608,
+				-0.014107233925720275,
+				-0.03553059254868407
+			]
+		},
+		"border.d1": {
+			"ref": "border",
+			"d": [
+				0.0030368426801209436,
+				0.0000013014349904416633,
+				0.000005084203800520548
+			]
+		},
+		"border.d2": {
+			"ref": "border",
+			"d": [
+				0.018655546520920163,
+				0.000658300954073654,
+				0.0016335627618980775
+			]
+		},
+		"border.d3": {
+			"ref": "border",
+			"d": [
+				0.018655546520920163,
+				0.000658300954073654,
+				0.0016335627618980775
+			]
+		},
+		"border.d4": {
+			"ref": "border",
+			"d": [
+				0.020497335666172622,
+				-0.009971680137929984,
+				-0.022714668351562106
+			]
+		},
+		"border.d5": {
+			"ref": "border",
+			"d": [
+				0.020497335666172622,
+				-0.009971680137929984,
+				-0.022714668351562106
+			]
+		},
+		"fg-muted.d0": {
+			"ref": "fg-muted",
+			"d": [
+				-0.13576199585801102,
+				-0.0008460939018272162,
+				0.00028615642435392274
+			]
+		},
+		"fg-muted.d1": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"fg-muted.d2": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"fg-muted.d3": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"fg-muted.d4": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"fg-muted.d5": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"fg-muted.d6": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"fg-muted.d7": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06606586696911038,
+				0.0005596552665976251,
+				0.0013055201845527664
+			]
+		},
+		"green.d0": {
+			"ref": "green",
+			"d": [
+				0.004922963967685767,
+				-0.010346167288560165,
+				0.0077086362109642925
+			]
+		},
+		"green.d1": {
+			"ref": "green",
+			"d": [
+				0.040011852568800466,
+				-0.011272963062713026,
+				0.008450730682560414
+			]
+		},
+		"green.d2": {
+			"ref": "green",
+			"d": [
+				0.040011852568800466,
+				-0.011272963062713026,
+				0.008450730682560414
+			]
+		},
+		"green.d3": {
+			"ref": "green",
+			"d": [
+				0.04516559229136807,
+				-0.02070954523487406,
+				0.014968973300359567
+			]
+		},
+		"green.d4": {
+			"ref": "green",
+			"d": [
+				0.09377375308704439,
+				-0.025024188922735974,
+				0.018149315809621425
+			]
+		},
+		"green.d5": {
+			"ref": "green",
+			"d": [
+				0.09377375308704439,
+				-0.025024188922735974,
+				0.018149315809621425
+			]
+		},
+		"green.d6": {
+			"ref": "green",
+			"d": [
+				0.09377375308704439,
+				-0.025024188922735974,
+				0.018149315809621425
+			]
+		},
+		"green.d7": {
+			"ref": "green",
+			"d": [
+				0.09377375308704439,
+				-0.025024188922735974,
+				0.018149315809621425
+			]
+		},
+		"green.d8": {
+			"ref": "green",
+			"d": [
+				0.09377375308704439,
+				-0.025024188922735974,
+				0.018149315809621425
+			]
+		},
+		"green.d9": {
+			"ref": "green",
+			"d": [
+				0.10365481020662004,
+				-0.027173890323508032,
+				-0.003188097269473722
+			]
+		},
+		"fg-subtle.d0": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"fg-subtle.d1": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"fg-subtle.d2": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"fg-subtle.d3": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"fg-subtle.d4": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"fg-subtle.d5": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"fg-subtle.d6": {
+			"ref": "fg-subtle",
+			"d": [
+				-0.020814437799756447,
+				-0.06152447691721519,
+				-0.1560845021267795
+			]
+		},
+		"yellow.d0": {
+			"ref": "yellow",
+			"d": [
+				-0.11689879200498243,
+				0.00009449479669637606,
+				-0.022537872083101207
+			]
+		},
+		"yellow.d1": {
+			"ref": "yellow",
+			"d": [
+				0.08204950939382438,
+				-0.0021977651667753895,
+				0.015522641920578062
+			]
+		},
+		"yellow.d2": {
+			"ref": "yellow",
+			"d": [
+				0.11693797015569862,
+				-0.009739430934767646,
+				0.00855491532658037
+			]
+		},
+		"yellow.d3": {
+			"ref": "yellow",
+			"d": [
+				0.14301145891952993,
+				-0.019253153586257732,
+				-0.004988997335838352
+			]
+		},
+		"yellow.d4": {
+			"ref": "yellow",
+			"d": [
+				0.14301145891952993,
+				-0.019253153586257732,
+				-0.004988997335838352
+			]
+		},
+		"purple.d0": {
+			"ref": "purple",
+			"d": [
+				-0.08060689277623523,
+				0.08514112831329462,
+				0.06924343742054667
+			]
+		},
+		"purple.d1": {
+			"ref": "purple",
+			"d": [
+				-0.06834494201695118,
+				-0.008847006162037208,
+				0.014261921504799935
+			]
+		},
+		"purple.d2": {
+			"ref": "purple",
+			"d": [
+				-0.06834494201695118,
+				-0.008847006162037208,
+				0.014261921504799935
+			]
+		},
+		"purple.d3": {
+			"ref": "purple",
+			"d": [
+				-0.06834494201695118,
+				-0.008847006162037208,
+				0.014261921504799935
+			]
+		},
+		"purple.d4": {
+			"ref": "purple",
+			"d": [
+				-0.06834494201695118,
+				-0.008847006162037208,
+				0.014261921504799935
+			]
+		},
+		"red.d0": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d1": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d2": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d3": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d4": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d5": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d6": {
+			"ref": "red",
+			"d": [
+				-0.09198917590039452,
+				-0.013397311801270323,
+				0.007681467252262153
+			]
+		},
+		"red.d7": {
+			"ref": "red",
+			"d": [
+				-0.04192873994621804,
+				0.002532740389048216,
+				0.013202397692348766
+			]
+		},
+		"red.d8": {
+			"ref": "red",
+			"d": [
+				-0.04192873994621804,
+				0.002532740389048216,
+				0.013202397692348766
+			]
+		},
+		"red.d9": {
+			"ref": "red",
+			"d": [
+				-0.04192873994621804,
+				0.002532740389048216,
+				0.013202397692348766
+			]
+		},
+		"red.d10": {
+			"ref": "red",
+			"d": [
+				-0.028738589570951434,
+				-0.007427738497593123,
+				0.01732411516925092
+			]
+		},
+		"bg-soft.d0": {
+			"ref": "bg-soft",
+			"d": [
+				-0.026605286638989645,
+				0.01563369545933968,
+				0.031116912583816547
+			]
+		},
+		"bg-soft.d1": {
+			"ref": "bg-soft",
+			"d": [
+				-0.025684205532250037,
+				-0.0023181018237017903,
+				-0.0035221111883045886
+			]
+		},
+		"bg-soft.d2": {
+			"ref": "bg-soft",
+			"d": [
+				-0.015056645958453019,
+				0.019635331863193106,
+				0.0061696344049307905
+			]
+		},
+		"cyan.d0": {
+			"ref": "cyan",
+			"d": [
+				0.07748784277325016,
+				0.0034145300418679803,
+				-0.02566349545168778
+			]
+		},
+		"bg-muted.d0": {
+			"ref": "bg-muted",
+			"d": [
+				-0.0017010705931949088,
+				-0.018565153248478627,
+				0.010889240094453134
+			]
+		}
+	},
+	"colors": {
+		"activityBar.activeBorder": "orange.d0",
+		"activityBar.background": "bg",
+		"activityBar.border": "border",
+		"activityBar.foreground": "fg.d6",
+		"activityBar.inactiveForeground": "fg-subtle",
+		"activityBarBadge.background": "blue.d7",
+		"activityBarBadge.foreground": "bg",
+		"badge.background": "border.d4",
+		"badge.foreground": "blue",
+		"breadcrumb.activeSelectionForeground": "fg-muted.d1",
+		"breadcrumb.focusForeground": "fg.d7",
+		"breadcrumb.foreground": "fg-muted",
+		"breadcrumbPicker.background": "bg-muted",
+		"button.background": "green.d3",
+		"button.foreground": "bg",
+		"button.hoverBackground": "green.d0",
+		"button.secondaryBackground": "border",
+		"button.secondaryForeground": "fg.d0",
+		"button.secondaryHoverBackground": "border-muted",
+		"checkbox.background": "bg-muted",
+		"checkbox.border": "border-muted",
+		"debugToolBar.background": "bg",
+		"descriptionForeground": "fg-muted",
+		"diffEditor.insertedTextBackground": "fg-subtle.d0@22",
+		"diffEditor.removedTextBackground": "red@22",
+		"dropdown.background": "bg-muted",
+		"dropdown.border": "border",
+		"dropdown.foreground": "fg.d8",
+		"dropdown.listBackground": "bg",
+		"editor.background": "bg",
+		"editor.findMatchBackground": "yellow.d3",
+		"editor.findMatchHighlightBackground": "yellow.d4@66",
+		"editor.focusedStackFrameHighlightBackground": "green.d4@25",
+		"editor.foldBackground": "border-muted@11",
+		"editor.foreground": "fg",
+		"editor.inactiveSelectionBackground": "blue.d1@11",
+		"editor.lineHighlightBackground": "bg-soft",
+		"editor.linkedEditingBackground": "blue.d2@11",
+		"editor.selectionBackground": "blue.d3@25",
+		"editor.selectionHighlightBackground": "fg-subtle.d1@40",
+		"editor.selectionHighlightBorder": "fg-subtle.d2@00",
+		"editor.stackFrameHighlightBackground": "yellow.d2@33",
+		"editor.wordHighlightBackground": "fg-subtle.d3@00",
+		"editor.wordHighlightBorder": "green.d1@99",
+		"editor.wordHighlightStrongBackground": "fg-subtle.d4@00",
+		"editor.wordHighlightStrongBorder": "green.d2@50",
+		"editorBracketHighlight.foreground1": "blue",
+		"editorBracketHighlight.foreground2": "orange",
+		"editorBracketHighlight.foreground3": "purple.d1",
+		"editorBracketHighlight.foreground4": "blue",
+		"editorBracketHighlight.foreground5": "orange",
+		"editorBracketHighlight.foreground6": "purple.d2",
+		"editorBracketMatch.background": "fg-subtle.d5@40",
+		"editorBracketMatch.border": "fg-subtle.d6@00",
+		"editorCursor.foreground": "blue.d0",
+		"editorError.foreground": "red.d7",
+		"editorGroup.border": "border",
+		"editorGroupHeader.tabsBackground": "bg-soft",
+		"editorGroupHeader.tabsBorder": "border",
+		"editorGutter.addedBackground": "green.d5",
+		"editorGutter.deletedBackground": "red",
+		"editorGutter.modifiedBackground": "blue.d8",
+		"editorLineNumber.activeForeground": "fg",
+		"editorLineNumber.foreground": "fg.d1@4d",
+		"editorOverviewRuler.border": "bg",
+		"editorWarning.foreground": "yellow.d1",
+		"editorWhitespace.foreground": "border-muted",
+		"editorWidget.background": "bg-soft",
+		"errorForeground": "red.d8",
+		"focusBorder": "blue.d9",
+		"foreground": "fg-muted.d0",
+		"gitDecoration.addedResourceForeground": "green.d6",
+		"gitDecoration.conflictingResourceForeground": "orange",
+		"gitDecoration.deletedResourceForeground": "red",
+		"gitDecoration.ignoredResourceForeground": "fg-subtle",
+		"gitDecoration.modifiedResourceForeground": "blue",
+		"gitDecoration.submoduleResourceForeground": "fg-subtle",
+		"gitDecoration.untrackedResourceForeground": "green.d7",
+		"input.background": "bg-muted",
+		"input.border": "border",
+		"input.foreground": "fg.d9",
+		"input.placeholderForeground": "fg-subtle",
+		"list.activeSelectionBackground": "border.d1",
+		"list.activeSelectionForeground": "fg.d10",
+		"list.focusBackground": "border.d0",
+		"list.hoverBackground": "bg-soft.d1",
+		"list.hoverForeground": "fg.d11",
+		"list.inactiveFocusBackground": "border.d5",
+		"list.inactiveSelectionBackground": "border.d2",
+		"list.inactiveSelectionForeground": "fg.d12",
+		"notificationCenterHeader.background": "border",
+		"notificationCenterHeader.foreground": "fg-muted",
+		"notifications.background": "bg-muted",
+		"notifications.border": "border",
+		"notifications.foreground": "fg.d13",
+		"notificationsErrorIcon.foreground": "red",
+		"notificationsInfoIcon.foreground": "blue",
+		"notificationsWarningIcon.foreground": "orange",
+		"panel.background": "bg-soft",
+		"panel.border": "border",
+		"panelInput.border": "border",
+		"panelTitle.activeBorder": "orange.d1",
+		"panelTitle.activeForeground": "fg.d14",
+		"panelTitle.inactiveForeground": "fg-muted",
+		"pickerGroup.border": "border",
+		"pickerGroup.foreground": "fg.d15",
+		"progressBar.background": "blue.d10",
+		"quickInput.background": "bg-muted",
+		"quickInput.foreground": "fg.d16",
+		"scrollbar.shadow": "fg-muted@33",
+		"scrollbarSlider.activeBackground": "fg-subtle@88",
+		"scrollbarSlider.background": "fg-subtle@33",
+		"scrollbarSlider.hoverBackground": "fg-subtle@44",
+		"settings.headerForeground": "fg.d17",
+		"settings.modifiedItemIndicator": "blue.d11",
+		"sideBar.background": "bg-soft",
+		"sideBar.border": "border",
+		"sideBar.foreground": "fg-muted.d2",
+		"sideBarSectionHeader.background": "bg-soft",
+		"sideBarSectionHeader.border": "border",
+		"sideBarSectionHeader.foreground": "fg.d18",
+		"sideBarTitle.foreground": "fg.d19",
+		"statusBar.background": "bg",
+		"statusBar.border": "border",
+		"statusBar.debuggingBackground": "orange.d2",
+		"statusBar.debuggingForeground": "bg",
+		"statusBar.foreground": "fg-muted.d3",
+		"statusBar.noFolderBackground": "bg",
+		"statusBarItem.prominentBackground": "border.d3",
+		"statusBarItem.remoteBackground": "bg",
+		"statusBarItem.remoteForeground": "fg-muted.d4",
+		"tab.activeBackground": "bg",
+		"tab.activeBorder": "bg",
+		"tab.activeBorderTop": "orange.d3",
+		"tab.activeForeground": "fg.d20",
+		"tab.border": "border",
+		"tab.hoverBackground": "bg",
+		"tab.inactiveBackground": "bg-soft",
+		"tab.inactiveForeground": "fg-muted",
+		"tab.unfocusedActiveBorder": "bg",
+		"tab.unfocusedActiveBorderTop": "border",
+		"tab.unfocusedHoverBackground": "bg",
+		"terminal.ansiBlack": "fg",
+		"terminal.ansiBlue": "blue.d4",
+		"terminal.ansiBrightBlack": "fg-subtle",
+		"terminal.ansiBrightBlue": "blue",
+		"terminal.ansiBrightCyan": "cyan.d0",
+		"terminal.ansiBrightGreen": "green",
+		"terminal.ansiBrightMagenta": "purple.d3",
+		"terminal.ansiBrightRed": "red.d9",
+		"terminal.ansiBrightWhite": "border-muted",
+		"terminal.ansiBrightYellow": "yellow.d0",
+		"terminal.ansiCyan": "cyan",
+		"terminal.ansiGreen": "green.d8",
+		"terminal.ansiMagenta": "purple.d4",
+		"terminal.ansiRed": "red",
+		"terminal.ansiWhite": "fg-muted",
+		"terminal.ansiYellow": "yellow",
+		"terminal.foreground": "fg-muted.d5",
+		"terminal.tab.activeBorder": "orange.d4",
+		"terminalCursor.background": "border-muted",
+		"terminalCursor.foreground": "blue",
+		"textBlockQuote.background": "bg-muted",
+		"textBlockQuote.border": "border",
+		"textCodeBlock.background": "bg-soft",
+		"textLink.activeForeground": "blue",
+		"textLink.foreground": "blue.d5",
+		"textPreformat.foreground": "fg-muted.d6",
+		"textSeparator.foreground": "border-muted",
+		"titleBar.activeBackground": "bg",
+		"titleBar.activeForeground": "fg.d21",
+		"titleBar.border": "border",
+		"titleBar.inactiveBackground": "bg-soft",
+		"titleBar.inactiveForeground": "fg-muted",
+		"tree.indentGuidesStroke": "border"
+	},
+	"tokenColors": [
+		{
+			"scope": [
+				"comment",
+				"punctuation.definition.comment",
+				"string.comment"
+			],
+			"settings": {
+				"foreground": "fg-muted"
+			}
+		},
+		{
+			"scope": [
+				"constant",
+				"entity.name.constant",
+				"variable.other.constant",
+				"variable.other.enummember",
+				"variable.language"
+			],
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": [
+				"entity",
+				"entity.name"
+			],
+			"settings": {
+				"foreground": "purple"
+			}
+		},
+		{
+			"scope": "variable.parameter.function",
+			"settings": {
+				"foreground": "fg"
+			}
+		},
+		{
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "green"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "red"
+			}
+		},
+		{
+			"scope": [
+				"storage",
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "red"
+			}
+		},
+		{
+			"scope": [
+				"storage.modifier.package",
+				"storage.modifier.import",
+				"storage.type.java"
+			],
+			"settings": {
+				"foreground": "fg"
+			}
+		},
+		{
+			"scope": [
+				"string",
+				"punctuation.definition.string",
+				"string punctuation.section.embedded source"
+			],
+			"settings": {
+				"foreground": "fg.d2"
+			}
+		},
+		{
+			"scope": "support",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "meta.property-name",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "orange"
+			}
+		},
+		{
+			"scope": "variable.other",
+			"settings": {
+				"foreground": "fg"
+			}
+		},
+		{
+			"scope": "invalid.broken",
+			"settings": {
+				"foreground": "red.d0",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "invalid.deprecated",
+			"settings": {
+				"foreground": "red.d1",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "invalid.illegal",
+			"settings": {
+				"foreground": "red.d2",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "invalid.unimplemented",
+			"settings": {
+				"foreground": "red.d3",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "carriage-return",
+			"settings": {
+				"foreground": "bg-muted",
+				"background": "red",
+				"fontStyle": "italic underline"
+			}
+		},
+		{
+			"scope": "message.error",
+			"settings": {
+				"foreground": "red.d4"
+			}
+		},
+		{
+			"scope": "string variable",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": [
+				"source.regexp",
+				"string.regexp"
+			],
+			"settings": {
+				"foreground": "fg.d3"
+			}
+		},
+		{
+			"scope": [
+				"string.regexp.character-class",
+				"string.regexp constant.character.escape",
+				"string.regexp source.ruby.embedded",
+				"string.regexp string.regexp.arbitrary-repitition"
+			],
+			"settings": {
+				"foreground": "fg.d4"
+			}
+		},
+		{
+			"scope": "string.regexp constant.character.escape",
+			"settings": {
+				"foreground": "green",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "support.variable",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "meta.module-reference",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "punctuation.definition.list.begin.markdown",
+			"settings": {
+				"foreground": "orange"
+			}
+		},
+		{
+			"scope": [
+				"markup.heading",
+				"markup.heading entity.name"
+			],
+			"settings": {
+				"foreground": "blue",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "markup.quote",
+			"settings": {
+				"foreground": "green"
+			}
+		},
+		{
+			"scope": "markup.italic",
+			"settings": {
+				"foreground": "fg",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "markup.bold",
+			"settings": {
+				"foreground": "fg",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"markup.underline"
+			],
+			"settings": {
+				"fontStyle": "underline"
+			}
+		},
+		{
+			"scope": [
+				"markup.strikethrough"
+			],
+			"settings": {
+				"fontStyle": "strikethrough"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": [
+				"markup.deleted",
+				"meta.diff.header.from-file",
+				"punctuation.definition.deleted"
+			],
+			"settings": {
+				"foreground": "red.d5",
+				"background": "bg-soft.d2"
+			}
+		},
+		{
+			"scope": [
+				"markup.inserted",
+				"meta.diff.header.to-file",
+				"punctuation.definition.inserted"
+			],
+			"settings": {
+				"foreground": "green",
+				"background": "bg-muted.d0"
+			}
+		},
+		{
+			"scope": [
+				"markup.changed",
+				"punctuation.definition.changed"
+			],
+			"settings": {
+				"foreground": "orange",
+				"background": "bg-soft.d0"
+			}
+		},
+		{
+			"scope": [
+				"markup.ignored",
+				"markup.untracked"
+			],
+			"settings": {
+				"foreground": "bg-soft",
+				"background": "blue"
+			}
+		},
+		{
+			"scope": "meta.diff.range",
+			"settings": {
+				"foreground": "purple",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "meta.diff.header",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "meta.separator",
+			"settings": {
+				"foreground": "blue",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "meta.output",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": [
+				"brackethighlighter.tag",
+				"brackethighlighter.curly",
+				"brackethighlighter.round",
+				"brackethighlighter.square",
+				"brackethighlighter.angle",
+				"brackethighlighter.quote"
+			],
+			"settings": {
+				"foreground": "fg-muted.d7"
+			}
+		},
+		{
+			"scope": "brackethighlighter.unmatched",
+			"settings": {
+				"foreground": "red.d6"
+			}
+		},
+		{
+			"scope": [
+				"constant.other.reference.link",
+				"string.other.link"
+			],
+			"settings": {
+				"foreground": "fg.d5",
+				"fontStyle": "underline"
+			}
+		},
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "blue.d6"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "green.d9"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "red.d10"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "purple.d0"
+			}
+		}
+	],
+	"semanticTokenColors": {
+		"string": "green",
+		"comment.documentation": "rust.docComment",
+		"macro": {
+			"foreground": "pink"
+		},
+		"decorator": "pink",
+		"derive": {
+			"foreground": "pink"
+		},
+		"variable.consuming": {
+			"foreground": "red"
+		},
+		"const": {
+			"foreground": "rust.const"
+		},
+		"method": "blue"
+	},
+	"semanticHighlighting": true
+}

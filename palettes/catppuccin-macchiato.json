@@ -1,0 +1,28 @@
+{
+	"type": "dark",
+	"base": {
+		"bg": "#24273a",
+		"bg-soft": "#181926",
+		"bg-muted": "#1e2030",
+		"fg": "#cad3f5",
+		"fg-muted": "#6e738d",
+		"fg-subtle": "#cad3f5",
+		"border": "#000000",
+		"border-muted": "#5b6078",
+		"blue": "#8aadf4",
+		"green": "#f5a97f",
+		"red": "#f44747",
+		"orange": "#f5a97f",
+		"yellow": "#eed49f",
+		"purple": "#ed8796",
+		"pink": "#ed8796",
+		"cyan": "#939ab7"
+	},
+	"rust": {
+		"macro": "#ed8796",
+		"consuming": "#f44747",
+		"const": "#eed49f",
+		"method": "#8aadf4",
+		"docComment": "#7d84a0"
+	}
+}

@@ -1,0 +1,83 @@
+{
+  "themes": [
+    {
+      "name": "gk-semantic_github-dark",
+      "spec": "spec/github-dark.json",
+      "palette": "palettes/github-dark.json"
+    },
+    {
+      "name": "gk-semantic_github-light",
+      "spec": "spec/github-light.json",
+      "palette": "palettes/github-light.json"
+    },
+    {
+      "name": "gk-semantic_github-tomorrow-night",
+      "spec": "spec/github-dark.json",
+      "palette": "palettes/tomorrow-night.json"
+    },
+    {
+      "name": "gk-semantic_github-tomorrow",
+      "spec": "spec/github-light.json",
+      "palette": "palettes/tomorrow.json"
+    },
+    {
+      "name": "gk-semantic_github-gruvbox-dark",
+      "spec": "spec/github-dark.json",
+      "palette": "palettes/gruvbox-dark.json"
+    },
+    {
+      "name": "gk-semantic_github-gruvbox-light",
+      "spec": "spec/github-light.json",
+      "palette": "palettes/gruvbox-light.json"
+    },
+    {
+      "name": "gk-semantic_solarized-dark",
+      "spec": "spec/solarized-dark.json",
+      "palette": "palettes/solarized-dark.json"
+    },
+    {
+      "name": "gk-semantic_solarized-light",
+      "spec": "spec/solarized-light.json",
+      "palette": "palettes/solarized-light.json"
+    },
+    {
+      "name": "gk-semantic_catppuccin-frappe",
+      "spec": "spec/catppuccin-frappe.json",
+      "palette": "palettes/catppuccin-frappe.json"
+    },
+    {
+      "name": "gk-semantic_catppuccin-latte",
+      "spec": "spec/catppuccin-latte.json",
+      "palette": "palettes/catppuccin-latte.json"
+    },
+    {
+      "name": "gk-semantic_catppuccin-macchiato",
+      "spec": "spec/catppuccin-macchiato.json",
+      "palette": "palettes/catppuccin-macchiato.json"
+    },
+    {
+      "name": "gk-semantic_catppuccin-mocha",
+      "spec": "spec/catppuccin-mocha.json",
+      "palette": "palettes/catppuccin-mocha.json"
+    }
+  ],
+  "formatting": {
+    "rust": {
+      "typeParameter": { "bold": true },
+      "namespace": { "italic": true },
+      "struct": { "bold": true },
+      "enumMember": { "bold": true },
+      "type": { "bold": true },
+      "enum": { "bold": true, "italic": true },
+      "interface": { "italic": true, "underline": true },
+      "*.consuming": { "bold": true },
+      "*.reference": { "italic": true },
+      "variable.mutable": { "underline": true },
+      "keyword.async": { "italic": true },
+      "macro": { "underline": true },
+      "derive": { "italic": true },
+      "variable.consuming": { "bold": true },
+      "const": { "italic": true }
+    }
+  }
+}

@@ -1,0 +1,1074 @@
+{
+	"name": "Solarized (dark)",
+	"type": "dark",
+	"derived": {
+		"bg-muted.d0": {
+			"ref": "bg-muted",
+			"d": [
+				-0.2296703490046592,
+				0.03153343279438557,
+				0.028404340619874513
+			]
+		},
+		"bg-muted.d1": {
+			"ref": "bg-muted",
+			"d": [
+				-0.2296703490046592,
+				0.03153343279438557,
+				0.028404340619874513
+			]
+		},
+		"bg-muted.d2": {
+			"ref": "bg-muted",
+			"d": [
+				-0.014222520219840412,
+				0.027416496686050715,
+				-0.011333063214372024
+			]
+		},
+		"bg-muted.d3": {
+			"ref": "bg-muted",
+			"d": [
+				0.0037733777933487422,
+				-0.0006412022038159992,
+				-0.00008908813692701245
+			]
+		},
+		"purple.d0": {
+			"ref": "purple",
+			"d": [
+				0.02609064896546126,
+				0.049511297946127936,
+				0.10030765372990708
+			]
+		},
+		"purple.d1": {
+			"ref": "purple",
+			"d": [
+				0.06359639875807072,
+				0.14972613313596303,
+				-0.07998881331124358
+			]
+		},
+		"purple.d2": {
+			"ref": "purple",
+			"d": [
+				0.09011545956795325,
+				0.038040322324792764,
+				0.033967682311263014
+			]
+		},
+		"purple.d3": {
+			"ref": "purple",
+			"d": [
+				0.09011545956795325,
+				0.038040322324792764,
+				0.033967682311263014
+			]
+		},
+		"purple.d4": {
+			"ref": "purple",
+			"d": [
+				0.09011545956795325,
+				0.038040322324792764,
+				0.033967682311263014
+			]
+		},
+		"purple.d5": {
+			"ref": "purple",
+			"d": [
+				0.09011545956795325,
+				0.038040322324792764,
+				0.033967682311263014
+			]
+		},
+		"purple.d6": {
+			"ref": "purple",
+			"d": [
+				0.09011545956795325,
+				0.038040322324792764,
+				0.033967682311263014
+			]
+		},
+		"purple.d7": {
+			"ref": "purple",
+			"d": [
+				0.09011545956795325,
+				0.038040322324792764,
+				0.033967682311263014
+			]
+		},
+		"fg.d0": {
+			"ref": "fg",
+			"d": [
+				-0.08830800707553066,
+				-0.02190395670589873,
+				0.0033182614371562447
+			]
+		},
+		"fg.d1": {
+			"ref": "fg",
+			"d": [
+				-0.0855149813779521,
+				-0.00338101088755427,
+				-0.010620462965553357
+			]
+		},
+		"fg.d2": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d3": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d4": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d5": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d6": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d7": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d8": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d9": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d10": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d11": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d12": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d13": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d14": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d15": {
+			"ref": "fg",
+			"d": [
+				-0.010015957141444431,
+				-0.08322491348335792,
+				-0.004679693957767794
+			]
+		},
+		"fg.d16": {
+			"ref": "fg",
+			"d": [
+				0.012867674765378978,
+				0.017838008306160225,
+				0.0084174654849275
+			]
+		},
+		"fg.d17": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d18": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d19": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d20": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d21": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d22": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d23": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d24": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d25": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d26": {
+			"ref": "fg",
+			"d": [
+				0.044218376841119844,
+				0.0026145736581604795,
+				0.003822961119365642
+			]
+		},
+		"fg.d27": {
+			"ref": "fg",
+			"d": [
+				0.07175856601945696,
+				-0.09300693426297252,
+				-0.034521060637293766
+			]
+		},
+		"blue.d0": {
+			"ref": "blue",
+			"d": [
+				-0.06971143400742974,
+				-0.008258953809749725,
+				0.037502230500637834
+			]
+		},
+		"blue.d1": {
+			"ref": "blue",
+			"d": [
+				-0.06971143400742974,
+				-0.008258953809749725,
+				0.037502230500637834
+			]
+		},
+		"blue.d2": {
+			"ref": "blue",
+			"d": [
+				-0.03256289275829338,
+				0.0790218021120564,
+				0.0016979683914383759
+			]
+		},
+		"blue.d3": {
+			"ref": "blue",
+			"d": [
+				-0.03256289275829338,
+				0.0790218021120564,
+				0.0016979683914383759
+			]
+		},
+		"pink.d0": {
+			"ref": "pink",
+			"d": [
+				-0.10680776398263869,
+				-0.03235903495581394,
+				0.04358567483124032
+			]
+		},
+		"pink.d1": {
+			"ref": "pink",
+			"d": [
+				-0.0750397739900962,
+				-0.051984302149787776,
+				0.029893268771576664
+			]
+		},
+		"pink.d2": {
+			"ref": "pink",
+			"d": [
+				-0.0750397739900962,
+				-0.051984302149787776,
+				0.029893268771576664
+			]
+		},
+		"border.d0": {
+			"ref": "border",
+			"d": [
+				-0.011115864193826652,
+				0.055400446797480074,
+				-0.014764161356714545
+			]
+		},
+		"border.d1": {
+			"ref": "border",
+			"d": [
+				-0.011115864193826652,
+				0.055400446797480074,
+				-0.014764161356714545
+			]
+		},
+		"border.d2": {
+			"ref": "border",
+			"d": [
+				-0.006675927050129871,
+				0.0034603008899150856,
+				0.006217361541544286
+			]
+		},
+		"border.d3": {
+			"ref": "border",
+			"d": [
+				-0.006675927050129871,
+				0.0034603008899150856,
+				0.006217361541544286
+			]
+		},
+		"border.d4": {
+			"ref": "border",
+			"d": [
+				0.004318495344079687,
+				0.1299128902490707,
+				0.058721897379370364
+			]
+		},
+		"border-muted.d0": {
+			"ref": "border-muted",
+			"d": [
+				0.01102351748890451,
+				0.012339107571088248,
+				0.03848595800746274
+			]
+		},
+		"border-muted.d1": {
+			"ref": "border-muted",
+			"d": [
+				0.01102351748890451,
+				0.012339107571088248,
+				0.03848595800746274
+			]
+		},
+		"red.d0": {
+			"ref": "red",
+			"d": [
+				-0.10371046009647544,
+				0.0050942880322991935,
+				0.019123987325716296
+			]
+		},
+		"red.d1": {
+			"ref": "red",
+			"d": [
+				-0.0620979420893496,
+				-0.00603616019230499,
+				0.004706076476980292
+			]
+		},
+		"red.d2": {
+			"ref": "red",
+			"d": [
+				-0.0620979420893496,
+				-0.00603616019230499,
+				0.004706076476980292
+			]
+		},
+		"red.d3": {
+			"ref": "red",
+			"d": [
+				-0.0620979420893496,
+				-0.00603616019230499,
+				0.004706076476980292
+			]
+		},
+		"red.d4": {
+			"ref": "red",
+			"d": [
+				-0.0620979420893496,
+				-0.00603616019230499,
+				0.004706076476980292
+			]
+		},
+		"red.d5": {
+			"ref": "red",
+			"d": [
+				-0.0620979420893496,
+				-0.00603616019230499,
+				0.004706076476980292
+			]
+		},
+		"red.d6": {
+			"ref": "red",
+			"d": [
+				-0.0620979420893496,
+				-0.00603616019230499,
+				0.004706076476980292
+			]
+		},
+		"cyan.d0": {
+			"ref": "cyan",
+			"d": [
+				0.03925379943951757,
+				-0.005192396612831496,
+				-0.0015933142308612869
+			]
+		},
+		"cyan.d1": {
+			"ref": "cyan",
+			"d": [
+				0.03960506537057695,
+				-0.030333249551069585,
+				-0.009040127232005868
+			]
+		},
+		"fg-muted.d0": {
+			"ref": "fg-muted",
+			"d": [
+				-0.06939120013543465,
+				-0.0010910602926340607,
+				0.026010065118947545
+			]
+		},
+		"fg-muted.d1": {
+			"ref": "fg-muted",
+			"d": [
+				-0.046157716160825424,
+				0.02185859854242106,
+				0.006917704227316079
+			]
+		},
+		"fg-muted.d2": {
+			"ref": "fg-muted",
+			"d": [
+				-0.026471662123764395,
+				-0.000043323421279273244,
+				0.02605258947818212
+			]
+		},
+		"bg.d0": {
+			"ref": "bg",
+			"d": [
+				-0.013719131135820684,
+				0.00538983902040524,
+				0.004922824346296872
+			]
+		},
+		"bg.d1": {
+			"ref": "bg",
+			"d": [
+				0.00056601349652452,
+				0.0004853060523183905,
+				-0.001787569338666195
+			]
+		},
+		"bg.d2": {
+			"ref": "bg",
+			"d": [
+				0.00476965020100667,
+				0.00034513383284431876,
+				-0.003653058578969387
+			]
+		},
+		"bg-soft.d0": {
+			"ref": "bg-soft",
+			"d": [
+				0.019794288795549952,
+				0.05405729848899915,
+				-0.016973918310417613
+			]
+		},
+		"green.d0": {
+			"ref": "green",
+			"d": [
+				-0.06471816535929265,
+				-0.1384067320365719,
+				-0.03543441424002036
+			]
+		},
+		"green.d1": {
+			"ref": "green",
+			"d": [
+				-0.014665599781164884,
+				-0.0068160386392235595,
+				-0.0689707463347119
+			]
+		},
+		"green.d2": {
+			"ref": "green",
+			"d": [
+				-0.010088724600285759,
+				-0.082207767447079,
+				-0.0011932559941848497
+			]
+		},
+		"green.d3": {
+			"ref": "green",
+			"d": [
+				-0.010088724600285759,
+				-0.082207767447079,
+				-0.0011932559941848497
+			]
+		},
+		"green.d4": {
+			"ref": "green",
+			"d": [
+				-0.010088724600285759,
+				-0.082207767447079,
+				-0.0011932559941848497
+			]
+		},
+		"green.d5": {
+			"ref": "green",
+			"d": [
+				-0.010088724600285759,
+				-0.082207767447079,
+				-0.0011932559941848497
+			]
+		},
+		"green.d6": {
+			"ref": "green",
+			"d": [
+				-0.010088724600285759,
+				-0.082207767447079,
+				-0.0011932559941848497
+			]
+		},
+		"green.d7": {
+			"ref": "green",
+			"d": [
+				-0.010088724600285759,
+				-0.082207767447079,
+				-0.0011932559941848497
+			]
+		},
+		"orange.d0": {
+			"ref": "orange",
+			"d": [
+				-0.0682477763589937,
+				-0.04958721303281832,
+				0.02574804749358567
+			]
+		},
+		"orange.d1": {
+			"ref": "orange",
+			"d": [
+				-0.0682477763589937,
+				-0.04958721303281832,
+				0.02574804749358567
+			]
+		},
+		"orange.d2": {
+			"ref": "orange",
+			"d": [
+				-0.0682477763589937,
+				-0.04958721303281832,
+				0.02574804749358567
+			]
+		},
+		"orange.d3": {
+			"ref": "orange",
+			"d": [
+				-0.0682477763589937,
+				-0.04958721303281832,
+				0.02574804749358567
+			]
+		},
+		"orange.d4": {
+			"ref": "orange",
+			"d": [
+				-0.0682477763589937,
+				-0.04958721303281832,
+				0.02574804749358567
+			]
+		},
+		"orange.d5": {
+			"ref": "orange",
+			"d": [
+				-0.0682477763589937,
+				-0.04958721303281832,
+				0.02574804749358567
+			]
+		}
+	},
+	"colors": {
+		"activityBar.background": "border",
+		"agentsBottomPanel.border": "bg-muted.d0@00",
+		"agentsCard.border": "bg-muted.d1@00",
+		"agentsChatInput.border": "purple.d2@66",
+		"agentsChatInput.focusBorder": "fg.d2@99",
+		"agentsNewSessionButton.border": "purple.d3@66",
+		"agentsPanel.border": "purple.d4@66",
+		"badge.background": "blue.d0",
+		"button.background": "fg.d3@99",
+		"debugExceptionWidget.background": "bg-muted",
+		"debugExceptionWidget.border": "pink.d1",
+		"debugToolBar.background": "bg-muted",
+		"dropdown.background": "bg-muted",
+		"dropdown.border": "fg.d4@99",
+		"editor.background": "bg",
+		"editor.foreground": "fg",
+		"editor.lineHighlightBackground": "border.d2",
+		"editor.selectionBackground": "border-muted.d0",
+		"editor.selectionHighlightBackground": "purple@aa",
+		"editor.wordHighlightBackground": "border-muted@aa",
+		"editor.wordHighlightStrongBackground": "purple@aa",
+		"editorBracketHighlight.foreground1": "cyan",
+		"editorBracketHighlight.foreground2": "green",
+		"editorBracketHighlight.foreground3": "pink",
+		"editorCursor.foreground": "red.d0",
+		"editorGroup.border": "bg-muted",
+		"editorGroup.dropBackground": "fg.d5@44",
+		"editorGroupHeader.tabsBackground": "bg-soft",
+		"editorHoverWidget.background": "bg-soft",
+		"editorIndentGuide.activeBackground": "cyan.d1@80",
+		"editorIndentGuide.background": "fg.d17@80",
+		"editorLineNumber.activeForeground": "fg.d16",
+		"editorMarkerNavigationError.background": "pink.d2",
+		"editorMarkerNavigationWarning.background": "fg.d0",
+		"editorWhitespace.foreground": "fg.d18@80",
+		"editorWidget.background": "bg-muted",
+		"errorForeground": "fg-muted.d1",
+		"focusBorder": "fg.d6@99",
+		"input.background": "border",
+		"input.foreground": "fg.d19",
+		"input.placeholderForeground": "fg.d20@aa",
+		"inputOption.activeBorder": "fg.d7@99",
+		"inputValidation.errorBackground": "border.d4",
+		"inputValidation.errorBorder": "pink.d0",
+		"inputValidation.infoBackground": "bg.d0",
+		"inputValidation.infoBorder": "bg-soft.d0",
+		"inputValidation.warningBackground": "purple.d0",
+		"inputValidation.warningBorder": "green.d1",
+		"list.activeSelectionBackground": "purple",
+		"list.dropBackground": "border-muted@88",
+		"list.highlightForeground": "fg.d27",
+		"list.hoverBackground": "border-muted@aa",
+		"list.inactiveSelectionBackground": "border-muted@88",
+		"minimap.selectionHighlight": "border-muted.d1",
+		"modernActivityBar.activeBackground": "purple",
+		"modernActivityBar.hoverBackground": "purple@87",
+		"panel.border": "border.d0",
+		"peekView.border": "border.d1",
+		"peekViewEditor.background": "bg-muted.d2",
+		"peekViewEditor.matchHighlightBackground": "purple.d1@40",
+		"peekViewResult.background": "bg-muted",
+		"peekViewTitle.background": "bg-muted",
+		"pickerGroup.border": "fg.d8@99",
+		"pickerGroup.foreground": "fg.d9@99",
+		"ports.iconRunningProcessForeground": "green.d0",
+		"progressBar.background": "blue.d1",
+		"quickInputList.focusBackground": "purple",
+		"selection.background": "fg.d10@99",
+		"sideBar.background": "bg-muted",
+		"sideBarTitle.foreground": "fg.d21",
+		"statusBar.background": "bg-muted",
+		"statusBar.debuggingBackground": "bg-muted",
+		"statusBar.foreground": "fg.d22",
+		"statusBar.noFolderBackground": "bg-muted",
+		"statusBarItem.prominentBackground": "border",
+		"statusBarItem.prominentHoverBackground": "border",
+		"statusBarItem.remoteBackground": "fg.d11@99",
+		"surface.border": "bg-muted.d3",
+		"tab.activeBackground": "bg.d1",
+		"tab.activeForeground": "cyan.d0",
+		"tab.border": "border",
+		"tab.inactiveBackground": "bg-soft",
+		"tab.inactiveForeground": "fg.d23",
+		"tab.lastPinnedBorder": "fg.d12@44",
+		"terminal.ansiBlack": "border.d3",
+		"terminal.ansiBlue": "blue",
+		"terminal.ansiBrightBlack": "bg",
+		"terminal.ansiBrightBlue": "fg",
+		"terminal.ansiBrightCyan": "fg.d24",
+		"terminal.ansiBrightGreen": "purple.d5",
+		"terminal.ansiBrightMagenta": "blue.d2",
+		"terminal.ansiBrightRed": "orange.d0",
+		"terminal.ansiBrightWhite": "fg-muted.d2",
+		"terminal.ansiBrightYellow": "fg.d1",
+		"terminal.ansiCyan": "fg.d13",
+		"terminal.ansiGreen": "green.d2",
+		"terminal.ansiMagenta": "pink",
+		"terminal.ansiRed": "red.d1",
+		"terminal.ansiWhite": "fg-muted.d0",
+		"terminal.ansiYellow": "green",
+		"titleBar.activeBackground": "bg.d2"
+	},
+	"tokenColors": [
+		{
+			"settings": {
+				"foreground": "fg"
+			}
+		},
+		{
+			"scope": [
+				"meta.embedded",
+				"source.groovy.embedded",
+				"string meta.image.inline.markdown",
+				"variable.legacy.builtin.python"
+			],
+			"settings": {
+				"foreground": "fg"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "purple.d6"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "fg.d14"
+			}
+		},
+		{
+			"scope": "string.regexp",
+			"settings": {
+				"foreground": "red.d2"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "pink"
+			}
+		},
+		{
+			"scope": [
+				"variable.language",
+				"variable.other"
+			],
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "green.d3"
+			}
+		},
+		{
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "fg.d25"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.class",
+				"entity.name.type",
+				"entity.name.namespace",
+				"entity.name.scope-resolution"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "orange.d1"
+			}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "punctuation.definition.variable",
+			"settings": {
+				"foreground": "green.d4"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.section.embedded.begin",
+				"punctuation.section.embedded.end"
+			],
+			"settings": {
+				"foreground": "red.d3"
+			}
+		},
+		{
+			"scope": [
+				"constant.language",
+				"meta.preprocessor"
+			],
+			"settings": {
+				"foreground": "green"
+			}
+		},
+		{
+			"scope": [
+				"support.function.construct",
+				"keyword.other.new"
+			],
+			"settings": {
+				"foreground": "orange.d2"
+			}
+		},
+		{
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "orange.d3"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.inherited-class",
+				"punctuation.separator.namespace.ruby"
+			],
+			"settings": {
+				"foreground": "blue.d3"
+			}
+		},
+		{
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "punctuation.definition.tag",
+			"settings": {
+				"foreground": "purple.d7"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "fg.d26"
+			}
+		},
+		{
+			"scope": "support.function",
+			"settings": {
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "punctuation.separator.continuation",
+			"settings": {
+				"foreground": "red.d4"
+			}
+		},
+		{
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "green.d5"
+			}
+		},
+		{
+			"scope": "support.type.exception",
+			"settings": {
+				"foreground": "orange.d4"
+			}
+		},
+		{
+			"scope": "invalid",
+			"settings": {
+				"foreground": "red.d5"
+			}
+		},
+		{
+			"scope": [
+				"meta.diff",
+				"meta.diff.header"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "markup.deleted",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "red.d6"
+			}
+		},
+		{
+			"scope": "markup.changed",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "orange.d5"
+			}
+		},
+		{
+			"scope": "markup.inserted",
+			"settings": {
+				"foreground": "green.d6"
+			}
+		},
+		{
+			"scope": "markup.quote",
+			"settings": {
+				"foreground": "green.d7"
+			}
+		},
+		{
+			"scope": "markup.list",
+			"settings": {
+				"foreground": "green"
+			}
+		},
+		{
+			"scope": [
+				"markup.bold",
+				"markup.italic"
+			],
+			"settings": {
+				"foreground": "pink"
+			}
+		},
+		{
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "markup.strikethrough",
+			"settings": {
+				"fontStyle": "strikethrough"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "fg.d15"
+			}
+		},
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "blue"
+			}
+		},
+		{
+			"scope": "markup.heading.setext",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "blue"
+			}
+		}
+	],
+	"semanticTokenColors": {
+		"comment.documentation": "rust.docComment",
+		"macro": {
+			"foreground": "rust.macro"
+		},
+		"decorator": "rust.macro",
+		"derive": {
+			"foreground": "rust.macro"
+		},
+		"variable.consuming": {
+			"foreground": "red"
+		},
+		"const": {
+			"foreground": "yellow"
+		},
+		"method": "blue"
+	},
+	"semanticHighlighting": true
+}

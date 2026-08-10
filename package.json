@@ -8,20 +8,81 @@
   "engines": {
     "vscode": "^1.118.0"
   },
+  "scripts": {
+    "build": "node lib/build-themes.js",
+    "extract": "node lib/extract-spec.js",
+    "suggest": "node lib/suggest-palette.js",
+    "test": "node --test \"test/**/*.test.js\""
+  },
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "GK semantic - Github Rust Dark",
+        "label": "GK semantic - Github Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/github-dark-rust.json"
+        "path": "./themes/gk-semantic_github-dark.json"
       },
       {
-        "label": "GK semantic - Github Rust Light",
+        "label": "GK semantic - Github Light",
         "uiTheme": "vs",
-        "path": "./themes/github-light-rust.json"
+        "path": "./themes/gk-semantic_github-light.json"
+      },
+      {
+        "label": "GK semantic - Github Tomorrow Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_github-tomorrow-night.json"
+      },
+      {
+        "label": "GK semantic - Github Tomorrow",
+        "uiTheme": "vs",
+        "path": "./themes/gk-semantic_github-tomorrow.json"
+      },
+      {
+        "label": "GK semantic - Github Gruvbox Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_github-gruvbox-dark.json"
+      },
+      {
+        "label": "GK semantic - Github Gruvbox Light",
+        "uiTheme": "vs",
+        "path": "./themes/gk-semantic_github-gruvbox-light.json"
+      },
+      {
+        "label": "GK semantic - Correia Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_correia-gruvbox.json"
+      },
+      {
+        "label": "GK semantic - Solarized Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_solarized-dark.json"
+      },
+      {
+        "label": "GK semantic - Solarized Light",
+        "uiTheme": "vs",
+        "path": "./themes/gk-semantic_solarized-light.json"
+      },
+      {
+        "label": "GK semantic - Catppuccin Frappe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_catppuccin-frappe.json"
+      },
+      {
+        "label": "GK semantic - Catppuccin Latte",
+        "uiTheme": "vs",
+        "path": "./themes/gk-semantic_catppuccin-latte.json"
+      },
+      {
+        "label": "GK semantic - Catppuccin Macchiato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_catppuccin-macchiato.json"
+      },
+      {
+        "label": "GK semantic - Catppuccin Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_catppuccin-mocha.json"
       }
     ]
   }
