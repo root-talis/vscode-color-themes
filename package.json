@@ -12,7 +12,8 @@
     "build": "node lib/build-themes.js",
     "extract": "node lib/extract-spec.js",
     "suggest": "node lib/suggest-palette.js",
-    "test": "node --test \"test/**/*.test.js\""
+    "test": "node --test \"test/**/*.test.js\"",
+    "package": "vsce package"
   },
   "categories": [
     "Themes"

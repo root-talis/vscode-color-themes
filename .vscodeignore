@@ -2,3 +2,16 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+
+.opencode/
+openspec/
+
+lib
+palettes
+spec
+test
+themes/raw
+generator.json
+AGENTS.md
+HOWTO.md
+changelog.md

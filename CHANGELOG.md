@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "gk---github-semantic-colors-for-rust" extension will be documented in this file.
+All notable changes to the "gk-semantic-colors" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [v0.1.0]
 
-## [Unreleased]
-
-- Initial release
+- Created an automatic generator to deconstruct themes and add semantic rules
+- Added themes: catppuccin, correia, solarized, github with other palettes
