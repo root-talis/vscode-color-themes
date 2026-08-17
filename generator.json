@@ -59,6 +59,21 @@
       "name": "gk-semantic_catppuccin-mocha",
       "spec": "spec/catppuccin-mocha.json",
       "palette": "palettes/catppuccin-mocha.json"
+    },
+    {
+      "name": "gk-semantic_correia-gruvbox",
+      "spec": "spec/correia-gruvbox.json",
+      "palette": "palettes/correia-gruvbox.json"
+    },
+    {
+      "name": "gk-semantic_correia-github-gruvbox",
+      "spec": "spec/correia-github-gruvbox.json",
+      "palette": "palettes/correia-github-gruvbox.json"
+    },
+    {
+      "name": "gk-semantic_correia-github-everforst",
+      "spec": "spec/correia-github-everforst.json",
+      "palette": "palettes/correia-github-everforst.json"
     }
   ],
   "formatting": {

@@ -1,6 +1,6 @@
 # GK Semantic color themes
 
-A collection of semantic color themes, each with custom semantic colors:
+A collection of semantic color themes, each with custom semantic fixes:
 
    - GitHub:
       - GitHub Dark
@@ -10,7 +10,7 @@ A collection of semantic color themes, each with custom semantic colors:
       - GitHub Dark (Gruvbox Dark palette)
       - GitHub Light (Gruvbox Light palette)
    - Solarized (dark and light)
-   - Correia-gruvbox (dark)
+   - Correia (gruvbox, github+gruvbox, github+everforst)
    - Catppuccin (Frappe, Latte, Macchiato, Mocha)
 
 Currently supported languages for semantic formatting:

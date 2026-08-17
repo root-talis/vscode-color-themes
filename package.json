@@ -55,6 +55,16 @@
         "path": "./themes/gk-semantic_correia-gruvbox.json"
       },
       {
+        "label": "GK semantic - Correia Github+Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_correia-github-gruvbox.json"
+      },
+      {
+        "label": "GK semantic - Correia Github+Everforst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gk-semantic_correia-github-everforst.json"
+      },
+      {
         "label": "GK semantic - Solarized Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/gk-semantic_solarized-dark.json"
